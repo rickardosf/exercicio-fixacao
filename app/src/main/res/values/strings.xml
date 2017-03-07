@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="decrementar">Decrementar</string>
+    <string name="incrementar">Incrementar</string>
+    <string name="toast_incrementar">O contador so pode incrementar ate 10</string>
+    <string name="toast_decrementar">O contador so pode decrementar ate 0</string>
+</resources>
